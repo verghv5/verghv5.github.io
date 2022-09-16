@@ -37,7 +37,7 @@
 
 .ds4 .bumper {
     width: 200px;
-    height: 45px;
+    height: 50px;
     background: url(Bumper.png) no-repeat;
     opacity: 0;
 }
@@ -47,7 +47,7 @@
     width: 672px;
     height: 23px;
     left: 263px;
-    top: 132px;
+    top: 125px;
 }
 
 .ds4 .bumper.pressed {
